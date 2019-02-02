@@ -1,2 +1,2 @@
-# Annie-Ghost-Blog
-Annie's Ghost Blog
+# Annie-Blog
+Annie's Blog
